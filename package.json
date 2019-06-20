@@ -1,0 +1,18 @@
+{
+  "name": "html-scss-and-bootstrap-4",
+  "version": "1.0.0",
+  "description": "This is a basic template with HTML, SCSS and Bootstrap 4.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
